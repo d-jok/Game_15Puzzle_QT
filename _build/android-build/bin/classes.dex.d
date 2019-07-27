@@ -1,0 +1,26 @@
+D:\QTprograms\game\_build\android-build\bin\classes.dex : \
+D:\QTprograms\game\_build\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\example\game\BuildConfig.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\example\game\R$array.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\example\game\R$attr.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\example\game\R$layout.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\example\game\R$string.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\example\game\R.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$1.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$2.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1$1.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$4.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$5.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$6.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtApplication$InvokeResult.class \
+D:\QTprograms\game\_build\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtApplication.class \
+D:\QTprograms\game\_build\android-build\bin\dexedLibs\QtAndroid-bundled-30caa8da92145b68b2700b0c45bb30d0.jar \
+D:\QTprograms\game\_build\android-build\bin\dexedLibs\QtAndroidAccessibility-bundled-9447d9f91e0b5b53ab9349ed0d11e0af.jar \
